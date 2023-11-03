@@ -33,5 +33,4 @@ ArtBlock combines blockchain technology, decentralized governance, and a vibrant
 
 # Project Diagram
 
-![ArtChai.com/nan drawio](https://github.com/nahid515023/demo/assets/60315276/3092afc1-b7d8-4ac5-a288-7a67c.com/nac1b4454)
-
+![ArtChain drawio](https://github.com/nahid515023/demo/assets/60315276/53c79dcb-11a6-4fb0-816d-256e307f3706)
